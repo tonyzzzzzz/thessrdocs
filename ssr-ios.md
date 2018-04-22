@@ -23,3 +23,7 @@
 ### 软件设置 ###
 
 !> 首次使用可能会需要同意VPN系统权限，此时阁下只需验证您的Touch ID/Face ID即可。
+
+请将连接方式选择为代理，打开连接，即可开始使用。
+
+![使用](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/ios-1.png)
