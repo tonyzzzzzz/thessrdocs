@@ -22,5 +22,9 @@
 		* [软件安装](/ssr-mac?id=软件安装)
 		* [导入节点设置](/ssr-mac?id=导入节点设置)
 		* [软件设置](/ssr-mac?id=软件设置)
+	* [iOS-Shadowrocket](/ssr-ios)
+		* [软件安装](/ssr-ios?id=软件安装)
+		* [导入节点设置](/ssr-ios?id=导入节点设置)
+		* [软件设置](/ssr-ios?id=软件设置)
 * **其他信息**
 	* [用户协议](/agreement)
