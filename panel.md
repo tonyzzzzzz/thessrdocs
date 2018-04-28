@@ -53,4 +53,4 @@ THE.SSR目前提供微信、支付宝、QQ钱包三种支付方式。阁下可�
 ![购买](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/shop.png)
 
 ### 套餐分级制度 ###
-我们的套餐现已推出分级制度，分为Bronze(入门)、Silver(进阶)、Platinum(旗舰)。其中线路速度、可访问节点数量等参数对于不同套餐有不同的限制，具体为Platinum>Silver>Bronze，Platinum解锁所有线路切不限速。对于Bronze，我们推荐使用频率较低的用户；而对于Platinum，我们则是推荐与使用频率高，且线路要求高的用户购买。
+我们的套餐现已推出分级制度，分为Bronze(入门)、Silver(进阶)、Platinum(旗舰)。其中线路速度、可访问节点数量等参数对于不同套餐有不同的限制，具体为Platinum>Silver>Bronze，Platinum解锁所有线路且不限速。对于Bronze，我们推荐使用频率较低的用户；而对于Platinum，我们则是推荐与使用频率高，且线路要求高的用户购买。
