@@ -6,6 +6,7 @@
 		* [节点列表](/panel?id=节点列表)
 		* [设置中转](/panel?id=设置中转)
 		* [充值&购买套餐](/panel?id=充值amp购买套餐)
+		* [套餐分级制度](/panel?id=套餐分级制度)
 	* [Windows-ShadowsocksR 4.7.0](/ssr-win)
 		* [软件安装](/ssr-win?id=软件安装)
 		* [导入节点设置](/ssr-win?id=导入节点设置)
