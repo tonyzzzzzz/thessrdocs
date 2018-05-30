@@ -15,7 +15,8 @@
 
 1.进入用户面板首页-[V2Ray选项卡]-[点击复制Vmess链接]，便可以获取您可用的V2Ray节点链接。
 
-2.从任务栏中打开V2RayNG-[服务器]-[从剪切板中导入批量URL]，即可在节点列表中找到您可用的V2Ray节点。
+2.从任务栏中打开V2RayNG-[服务器]-[从剪切板中导入批量URL]，即可在节点列表中找到您可用的V2Ray节点，并请进入软件选择您需要的节点。
 ![](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/2Y4XO%60IC%7BMMWFU1Q%5BXV_%5DEI.png)
 
-3.右键任务栏中的V2Ray图标，启动系统代理，即可开始使用V2Ray。
+### 软件设置 ###
+右键任务栏中的V2Ray图标，启动系统代理，即可开始使用V2Ray。
