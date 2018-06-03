@@ -11,8 +11,11 @@
 	* [Windows-SSTap](/ssr-game)
 	* [Windows-V2RayNG](/v2ray-win)
 	* [Android-SSR(R)](/ssr-android)
+	* [Android-V2RayNG](/v2ray-android)
 	* [macOS-ShadowsocksX-NG-R8](/ssr-mac)
+	* [macOS-V2RayX](/v2ray-mac)
 	* [iOS-Shadowrocket](/ssr-ios)
 	* [iOS-Kitsunebi](/v2ray-ios)
 * **其他信息**
 	* [用户协议](/agreement)
+	* [关于 V2Ray 协议的介绍](/whats-v2ray)
