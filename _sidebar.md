@@ -8,7 +8,7 @@
 		* [充值&购买套餐](/panel?id=充值amp购买套餐)
 		* [套餐分级制度](/panel?id=套餐分级制度)
 	* [Windows-ShadowsocksR 4.7.0](/ssr-win)
-	* [Windows-SSTap](/ssr-game)
+	* [Windows-Clash](/clash-win)
 	* [Windows-V2RayNG](/v2ray-win)
 	* [Android-SSR(R)](/ssr-android)
 	* [Android-V2RayNG](/v2ray-android)
