@@ -11,26 +11,23 @@
 ### 导入节点设置 ###
 1.打开 SSR(R) 应用程序。
 
-![软件截图](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/android-1.png)
+![1560869279043](images/1560869279043.png)
 
 2.点击顶部的[shadowsocks R▼]进入**节点列表**。
 
-![节点列表](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/and1.png)
+![1560869315998](images/1560869315998.png)
 
 3.在[Android SSR Default]处向右滑动，以便删除软件自带的无效节点。
 
-![删除节点](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/and2.png)
-
 4.点击右下角[+]按钮。
 
-![添加订阅-1](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/and3.png)
+![1560869339952](images/1560869339952.png)
 
 5.选择[添加/升级 SSR 订阅]。
 
-
 6.在弹出的窗口中删除自带无效订阅。（由于FreeSSR源已**停止维护**，将其置于订阅列表中可能影响订阅更新的速度）
 
-![添加订阅-2](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/and4.png)
+![1560869358536](C:\Users\Z3205\Documents\thessrdocs\images\1560869358536.png)
 
 7.再次点击[+]。
 
@@ -40,11 +37,11 @@
 
 ?> 订阅连接获取教程可以[在此找到](/panel?id=连接信息)
 
-![添加订阅-3](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/and6.png)
+![1560869374129](images/1560869374129.png)
 
 10.勾选[自动更新]，并点击[确定并升级]。
 
-![更新订阅](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/and8.png)
+![1560869400345](images/1560869400345.png)
 
 完成以上步骤后，节点列表将显示所有可用节点。
 
@@ -53,5 +50,3 @@
 
 1. 点击[路由]，选择[仅代理中国大陆无法访问的地址]。
 2. 如需使用，只需点击右上角小飞机图标。若要查看延迟，请点击[检查网络连接]。
-
-![](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/and10.png)
