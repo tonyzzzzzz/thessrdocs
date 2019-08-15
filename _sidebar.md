@@ -7,14 +7,14 @@
   	* [设置中转](/panel?id=设置中转)
   	* [充值&购买套餐](/panel?id=充值amp购买套餐)
   	* [套餐分级制度](/panel?id=套餐分级制度)
-  * [Windows](/ssr-win)
+  * Windows
   	* [Clash](/clash-win)
   	* [Shadowsocks(R)](/ssr-win)
   	* [V2RayNG](/v2ray-win)
-  * [Android](/ssr-android)
-  	* [Shadowsocks(R)](/clash-win)
+  * Android
+  	* [Shadowsocks(R)](/ssr-android)
   	* [V2RayNG](/v2ray-android)
-  * [macOS](/ssr-mac)        
+  * macOS     
   	* [ShadowsocksX-NG-R8](/ssr-mac)
   	* [V2RayX](/v2ray-mac)
   * [iOS-Quantumult](/ssr-ios)
