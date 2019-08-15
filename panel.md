@@ -35,15 +35,15 @@
 ![节点列表](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/node.png?x-oss-process=image/resize,p_50)
 
 ### 设置中转 ###
-> THE.SSR目前提供一条贵州中转线路，当阁下处于较差的网络情况或地理位置（无法直连我们节点）时，可以尝试使用中转连接任意一个节点。
+> Blinkload目前提供一条贵州中转线路，当阁下处于较差的网络情况或地理位置（无法直连我们节点）时，可以尝试使用中转连接任意一个节点。
 
 ![设置中转](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/relay.png?x-oss-process=image/resize,p_50)
 
 ### 充值&购买套餐 ###
-!> 由于THE.SSR只提供3天试用，当阁下试用到期时，请进入商店购买套餐。
+!> 由于Blinkload只提供3天试用，当阁下试用到期时，请进入商店购买套餐。
 
 ##### 1.充值 #####
-THE.SSR目前提供微信、支付宝、QQ钱包三种支付方式。阁下可以自行选择。
+Blinkload目前提供微信、支付宝、QQ钱包三种支付方式。阁下可以自行选择。
 
 ![充值](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/code.png?x-oss-process=image/resize,p_50)
 

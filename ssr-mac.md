@@ -1,7 +1,7 @@
 # macOS - ShadowsocksX-NG-R8 #
 - 系统要求： macOS 10.11 以上
 - 设备要求： Macbook / Macbook Air / Mackbook Pro / iMac / iMac Pro / Mac Pro / Mac mini
-- [点此下载软件安装包](https://download.thessr.io/shadowsocksx-ng-r8.dmg)
+- [点此下载软件安装包](https://download.blinkload.cloud/shadowsocksx-ng-r8.dmg)
 
 ### 软件安装 ###
 1. 您可以在上方找到**ShadowsocksX-NG-R8**安装包的下载链接。
@@ -41,4 +41,3 @@
 2. 分别单击以下三项：①**打开Shadowsocks** ②**打开时自动连接** ③**登陆时自动启动**。
 3. 单击 **打开Shadowsocks**。
 4. 在**顶部菜单栏**找到**小飞机图标** ，单击[小飞机图标]-[打开Shadowsocks]-勾选**PAC自动模式**或者**全局模式**，即可开始使用。
-

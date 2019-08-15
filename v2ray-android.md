@@ -8,7 +8,7 @@
 您可以在上方找到适用于Android的ShadowsocksR **APK安装包**，安装完毕后打开软件即可。
 
 ### 导入节点设置 ###
-1.进入THE.SSR用户面板中的V2Ray选项卡，点击获取VMess链接。
+1.进入Blinkload用户面板中的V2Ray选项卡，点击获取VMess链接。
 
 ![](https://i.loli.net/2018/06/03/5b1384ecc78df.png)
 
