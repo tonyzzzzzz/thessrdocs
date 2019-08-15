@@ -1,29 +1,45 @@
-# iOS - Shadowrocket #
+# iOS - Quantumult #
 - 系统要求： iOS 10及以上
-- 设备要求： 运行有iOS的设备
+- 设备要求： 运行有 iOS 的设备
 - 阁下可以从下方教程中了解如何安装
 
 ### 软件安装 ###
-!> 由于中国区Shadowrocket已下架，阁下可使用自己的**其他国家区域**账号购买Shadowrocket或者使用我们提供的美区账号。您可以从用户面板首页获取账户信息。
+!> 由于中国区 Quantumult 已下架，阁下可使用自己的**其他国家区域**账号购买 Quantumult 或者使用我们提供的美区账号，您可以联系客服获取。
 
 ### 导入节点设置 ###
-1.请点击位于软件右上角的[+]按键
 
-![导入-1](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/ios1.jpg)
+1. 使用 Safari 浏览器打开我们的网站，登陆账号进入**用户中心**页面**，**下拉滑到底部，至**订阅地址**板块
 
-2.在类型中选择**Subscribe**
+   ![image-20190815095844429](images/output_21_0.png)
 
-![导入-2](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/ios2.jpg)
+2. 在**订阅地址**板块中，点击下方的**「Shadowsocks/ShadowsocksR」-「一键导入」-「Quantumult」**
 
-3.在URL栏中输入**订阅地址**，点击完成后，即可自动更新节点。
-?> 订阅连接获取教程可以[在此找到](/panel?id=连接信息)
+   ![image-20190815100839027](images/image-20190815100839027.png)
 
-![导入-3](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/ios3.jpg)
+3. 接下来在弹出的提示**「在Quantumult中打开？」**中点击**「打开」**选项，即可跳转至Quantumult客户端
+
+   ![image-20190815101014862](images/image-20190815101014862.png)
+
+4. 接下来在Quantumult客户端中弹出的**「更新配置？」**窗口，选择**「好」**，即可获得**「已更新」**的弹窗提示，再次点击**「好」**
+
+   ![image-20190815101134592](images/image-20190815101134592.png)
+?> 至此，您已经成功的导入了节点，接下来我们将为您展示如何开始使用。
+
 
 ### 软件设置 ###
 
-!> 首次使用可能会需要同意VPN系统权限，此时阁下只需验证您的Touch ID/Face ID即可。
+1. 点击软件下方**「主页」**选项，点击下方中间的**「Quantumult Logo」**，即可显示节点
 
-请将连接方式选择为代理，打开连接，即可开始使用。
+   ![image-20190815101232848](images/image-20190815101232848.png)
 
-![使用](https://shadowsocks-tutorial.oss-cn-beijing.aliyuncs.com/ios-1.png)
+2. **点击选择**您想要使用的**线路**
+
+   ![image-20190815101351171](images/image-20190815101351171.png)
+
+3. 点击**右下方的**四个方块的图标，可以按需选择 3 种连接模式，这里推荐选择**「自动分流」**
+
+   ![image-20190815101502023](images/image-20190815101502023.png)
+
+4. **打开开关**，即可使用
+
+   ![image-20190815101534328](images/image-20190815101534328.png)
