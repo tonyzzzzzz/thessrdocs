@@ -2,7 +2,7 @@
 
 - 系统要求： Windows 7 以上
 - 设备要求： Windows 计算机 & 平板
-- [点此下载软件安装包](https://download.thessr.io/Clash.for.Windows-0.5.35-win.zip)
+- [点此下载软件安装包](https://download.blinkload.net/Clash.for.Windows-0.5.35-win.zip)
 
 > 此软件支持规则分流，推荐使用。
 

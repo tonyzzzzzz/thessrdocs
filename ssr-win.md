@@ -1,7 +1,7 @@
 # Windows - ShadowsocksR 4.7.0 #
 - 系统要求： Windows XP 及以上
 - 设备要求： Windows 计算机
-- [点此下载软件](https://download.blinkload.cloud/ShadowsocksR-4.7.0-win.7z)
+- [点此下载软件](https://download.blinkload.net/ShadowsocksR-4.7.0-win.7z)
 
 ### 软件安装 ###
 1. 您可以在上方找到**ShadowsocksR**客户端的下载链接，下载完毕后将压缩包解压到任意文件夹。Windows 7及以上用户请选择**"ShadowsocksR-dotnet4.0"**，WindowsXP用户请选择 **"ShadowsocksR-dotnet2.0"**。
