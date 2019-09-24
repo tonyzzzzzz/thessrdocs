@@ -56,7 +56,15 @@
     },
     name: 'Blinkload 用户文档',
     themeColor: '#000000',
-    mergeNavbar: false
+    mergeNavbar: false,
+    plugins: [
+      function(hook){
+        hook.afterEach(function(html, next){
+          html.replace('{$DOMAIN}', window.location.host.split('.').splice(-2).join('.'))
+          next(html);
+        })
+      }
+    ]
   }
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
