@@ -60,7 +60,7 @@
     plugins: [
       function(hook){
         hook.afterEach(function(html, next){
-          html.replace('{$DOMAIN}', window.location.host.split('.').splice(-2).join('.'))
+          html = html.replace('{$DOMAIN}', window.location.host.split('.').splice(-2).join('.'))
           next(html);
         })
       }
