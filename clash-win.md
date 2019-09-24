@@ -2,7 +2,7 @@
 
 - 系统要求： Windows 7 以上
 - 设备要求： Windows 计算机 & 平板
-- [点此下载软件安装包](https://download.blinkload.net/Clash.for.Windows-0.5.35-win.zip)
+- [点此下载软件安装包](https://download.{$DOMAIN}/Clash.for.Windows-0.5.35-win.zip)
 
 > 此软件支持规则分流，推荐使用。
 
@@ -39,4 +39,3 @@
    !> 由于 Windows 客户端**无法创建系统级代理**，可能会导致**一部分**不遵守系统代理规定的应用程序无法将流量转发至代理(即**无法使用代理**)。此时您需要进入软件中手动配置代理，我们的人工客服也将可以协助您设置。
 
 ![1558940340330](images/1558940340330.png)
-
