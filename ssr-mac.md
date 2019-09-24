@@ -1,7 +1,7 @@
 # macOS - ShadowsocksX-NG-R8 #
 - 系统要求： macOS 10.11 以上
 - 设备要求： Macbook / Macbook Air / Mackbook Pro / iMac / iMac Pro / Mac Pro / Mac mini
-- [点此下载软件安装包](https://download.blinkload.net/shadowsocksx-ng-r8.dmg)
+- [点此下载软件安装包](https://download.{$DOMAIN}}/shadowsocksx-ng-r8.dmg)
 
 ### 软件安装 ###
 1. 您可以在上方找到**ShadowsocksX-NG-R8**安装包的下载链接。
