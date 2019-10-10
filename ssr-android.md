@@ -1,7 +1,7 @@
 # Android - SSR(R) #
 - 系统要求： Android 4.0 及以上
 - 设备要求： Android手机或平板设备
-- [点此下载软件](https://download.{$DOMAIN}}/shadowsocksr-release.apk)
+- [点此下载软件](https://download.{$DOMAIN}/shadowsocksr-release.apk)
 
 ### 软件安装 ###
 !> 由于HUAWEI等厂商的OEM系统对于SSR的阻碍。当您在一些设备上无法使用时，请提交工单或联系网页客服。
